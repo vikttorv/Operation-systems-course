@@ -1,0 +1,54 @@
+./a.out
+
+This program gets only one argument!
+
+
+
+
+
+./a.out 0
+
+# MSupervis2 v.0.1Viktor
+
+
+
+
+./a.out 1
+
+# MSupervis2 v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My code is 0
+
+
+
+
+./a.out 2
+
+# MSupervis2 v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My code is 0
+
+I'm 2 child. I'm ready!
+It's time to terminate! My code is 1
+
+
+
+
+./a.out 5
+
+# MSupervis2 v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My code is 0
+
+I'm 2 child. I'm ready!
+It's time to terminate! My code is 1
+
+I'm 3 child. I'm ready!
+It's time to terminate! My code is 0
+
+I'm 4 child. I'm ready!
+I awake. Arrr...
+It's time to terminate! My code is 1
+
+I'm 5 child. I'm ready!
+It's time to terminate! My code is 1
