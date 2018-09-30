@@ -1,0 +1,44 @@
+./a.out 5
+
+# MSupervis v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My pid is 7676
+
+I'm 2 child. I'm ready!
+It's time to terminate! My pid is 7680
+
+I'm 3 child. I'm ready!
+It's time to terminate! My pid is 7682
+
+I'm 4 child. I'm ready!
+I awake. Arrr...
+It's time to terminate! My pid is 7683
+
+I'm 5 child. I'm ready!
+It's time to terminate! My pid is 7684
+
+
+./a.out 2
+
+# MSupervis v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My pid is 7687
+
+I'm 2 child. I'm ready!
+It's time to terminate! My pid is 7688
+
+./a.out 1
+
+# MSupervis v.0.1Viktor
+I'm 1 child. I'm ready!
+It's time to terminate! My pid is 7690
+
+./a.out 0
+
+# MSupervis v.0.1Viktor
+
+./a.out 
+
+# MSupervis v.0.1Viktor
+This program gets only one argument!
+
