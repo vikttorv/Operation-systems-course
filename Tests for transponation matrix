@@ -1,0 +1,102 @@
+# Matrix transponation v.O.1a(c)Viktor
+# Enter strings_num and bars_num:
+3 4
+# Enter element of matrix:
+3 4 5 5
+4 6 7 9
+2 34 5 6
+
+
+Matrix:
+3   4   5   5   
+4   6   7   9   
+2   34  5   6   
+
+
+Transpose matrix:
+3   4   2   
+4   6   34  
+5   7   5   
+5   9   6   
+
+
+# Matrix transponation v.O.1a(c)Viktor
+# Enter strings_num and bars_num:
+2 3
+# Enter element of matrix:
+r r 4
+# You enter incorrect element number 1! Try to enter this string again:
+2 r 4
+# You enter incorrect element number 2! Try to enter this string again:
+2 3 ht
+# You enter incorrect element number 3! Try to enter this string again:
+3.5 6.7 8.8
+4.7 5.14 7.7
+
+
+Matrix:
+3.5 6.7 8.8 
+4.7 5.14 7.7 
+
+
+Transpose matrix:
+3.5 4.7 
+6.7 5.14 
+8.8 7.7 
+
+
+# Matrix transponation v.O.1a(c)Viktor
+# Enter strings_num and bars_num:
+0 0  
+# Enter element of matrix:
+
+
+Matrix:
+
+
+Transpose matrix:
+
+
+
+
+# Matrix transponation v.O.1a(c)Viktor
+# Enter strings_num and bars_num:
+1 1
+# Enter element of matrix:
+3
+
+
+Matrix:
+3   
+
+
+Transpose matrix:
+3  
+
+
+
+
+
+# Matrix transponation v.O.1a(c)Viktor
+# Enter strings_num and bars_num:
+4 5
+# Enter element of matrix:
+3 4 5 2 6.4
+3 4 3 3 2
+46 5 65 45 3
+34 43 33  3 3
+
+
+Matrix:
+3   4   5   2   6.4 
+3   4   3   3   2   
+46  5   65  45  3   
+34  43  33  3   3   
+
+
+Transpose matrix:
+3   3   46  34  
+4   4   5   43  
+5   3   65  33  
+2   3   45  3   
+6.4 2   3   3 
