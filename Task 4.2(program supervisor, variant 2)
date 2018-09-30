@@ -15,6 +15,7 @@ int main(int argc, char *argv[ ] )
     }
     else
     {
+        printf("# MSupervis2 v.0.1Viktor\n");
         int n = atoi(argv[1]);
         if (n <= 0 && strcmp(argv[1], "0"))
         {
