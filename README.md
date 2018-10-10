@@ -1,2 +1,2 @@
-# Infa
+# Operation Systems course
 Programs for Valerii
