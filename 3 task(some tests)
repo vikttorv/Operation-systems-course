@@ -1,0 +1,77 @@
+$ ./a.out fegeg
+You entered incorrect name of logfile!!!
+
+$ ./a.out
+Too few arguments for programe url!!!
+
+
+$ ./a.out fege
+You entered incorrect name of logfile!!!
+
+$ ./a.out fnjthr4545463464362
+You entered incorrect name of logfile!!!
+
+$ ./a.out fnjthr4545463464362 fege  feg e eg e ge
+You entered incorrect name of logfile!!!
+
+$ ./a.out links.h kakai to kakaxa
+http://yandex.ru/
+http://mipt.ru/
+http://mipt.ru/
+http://google.ru/
+http://mipt.ru/
+http://google.ru/
+http://vanillajava.blogspot.ru/
+http://netsim.erinn.io/
+http://tutorials.jenkov.com/
+http://vanillajava.blogspot.ru/
+http://psy-lob-saw.blogspot.ru/
+http://vanillajava.blogspot.ru/
+http://netsim.erinn.io/
+http://mipt.ru/
+http://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux
+http://yandex.ru/
+http://vanillajava.blogspot.ru/
+http://psy-lob-saw.blogspot.ru/
+http://habr.ru/
+http://dev.cheremin.info/
+http://java-performance.com/
+http://java-performance.com/
+http://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux
+http://psy-lob-saw.blogspot.ru/
+http://mipt.ru/
+http://java-performance.com/
+http://mipt.ru/
+http://netsim.erinn.io/
+http://habr.ru/
+http://mipt.ru/
+http://netsim.erinn.io/
+http://www.javaspecialists.eu/
+http://habr.ru/
+http://java-performance.info/
+http://habr.ru/
+http://habr.ru/
+http://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux
+http://java-performance.com/
+http://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux
+http://www.javaspecialists.eu/
+http://vanillajava.blogspot.ru/
+http://google.ru/
+http://yandex.ru/
+http://java-performance.com/
+http://psy-lob-saw.blogspot.ru/
+http://habr.ru/
+http://www.ostechnix.com/betty-siri-like-commandline-virtual-assistant-linux
+http://java-performance.info/
+http://www.javaspecialists.eu/
+http://vanillajava.blogspot.ru/
+http://habr.ru/
+http://yandex.ru/
+http://mipt.ru/
+http://mipt.ru/
+http://dev.cheremin.info/
+http://netsim.erinn.io/
+http://yandex.ru/
+http://netsim.erinn.io/
+http://netsim.erinn.io/
+http://google.ru/
