@@ -1,0 +1,49 @@
+./a.out 1 2 3 /* 1, 2, 3 - это скомпилированные программы.*/
+Первый готов!. Вжух!!!
+
+
+
+Enter a, b, c:
+3 16 5
+Square equation has 2 roots: root1 = -0.333333; root2 = -5.
+
+
+
+Hello! I'm akinator and I guess any word, that you guess!!!
+Enter 'y' if yes and 'n' if no!
+Одушевленное?
+y
+Человек?
+y
+Физик?
+y
+Молодой?
+n
+Овчинкин?
+n
+Please, enter correct answer!
+Прут
+Do you sure? Enter 'n' if answer isn't correct, else arbitrarily symbol.
+в
+What does Прут have that doesn't have Овчинкин?
+Толстый
+Do you sure? Enter 'n' if answer isn't correct, else arbitrarily symbol.
+в
+So now I know, that it's Прут.
+Do you want to try again? Enter 'y' if yes, else arbitrarily symbol.
+y
+Одушевленное?
+y
+Человек?
+y
+Физик?
+y
+Молодой?
+y
+Лектор?
+y
+Колдунов?
+y
+Right!? Oh, easy katka!
+Do you want to try again? Enter 'y' if yes, else arbitrarily symbol.
+d
